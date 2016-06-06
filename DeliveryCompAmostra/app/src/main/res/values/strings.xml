@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Estabelecimentos</string>
+    <string name="default_failure">Houve um erro ao carregar os estabelecimentos</string>
+    <string name="placeholder_ligar">Ligar</string>
+    <string name="call">Ligar</string>
+    <string name="not_allowed">Não temos permissão de realizar ligações</string>
+</resources>
